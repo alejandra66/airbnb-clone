@@ -24,6 +24,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.15",
     "postcss": "^8.4.29",
+    "prettier": "3.0.3",
     "tailwindscss": "^0.3.0"
   }
 }

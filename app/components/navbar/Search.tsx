@@ -1,11 +1,12 @@
-'use client';
+"use client";
 
 const Search = () => {
-    return (
-        <div className="border-[1px] w-full md:w-auto py-2 rounded-full shadow-sm hover:shadow-md transition cursor-pointer
+  return (
+    <div
+      className="border-[1px] w-full md:w-auto py-2 rounded-full shadow-sm hover:shadow-md transition cursor-pointer
         "
-        >
-            <div 
+    >
+      <div
         className="
           flex 
           flex-row 
@@ -13,7 +14,7 @@ const Search = () => {
           justify-between
         "
       >
-        <div 
+        <div
           className="
             text-sm 
             font-semibold 
@@ -22,7 +23,7 @@ const Search = () => {
         >
           Anywhere
         </div>
-        <div 
+        <div
           className="
             hidden 
             sm:block 
@@ -36,10 +37,9 @@ const Search = () => {
         >
           Any Week
         </div>
-                </div>  
-            </div>
-        
-    );
-}
+      </div>
+    </div>
+  );
+};
 
 export default Search;
