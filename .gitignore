@@ -1,5 +1,11 @@
 .next/
 node_modules/
+.next/cache/
 .cache/
+.next/cache/webpack/server-development/
+.next/cache/webpack/client-development/index.pack.gz.old
+
+.next/static/chunks/
+.next/trace/
 .env.local
 .env.*  # If you have other environment-specific configuration files
