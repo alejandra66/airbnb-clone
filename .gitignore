@@ -1,2 +1,5 @@
-secrets.txt
-logs/
+.next/
+node_modules/
+.cache/
+.env.local
+.env.*  # If you have other environment-specific configuration files
