@@ -555,8 +555,14 @@ video {
 .hidden {
   display: none;
 }
+.h-auto {
+  height: auto;
+}
 .w-full {
   width: 100%;
+}
+.w-auto {
+  width: auto;
 }
 .max-w-\[2520px\] {
   max-width: 2520px;
