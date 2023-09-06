@@ -35,7 +35,7 @@ const Search = () => {
             text-center
           "
         >
-          Any Week
+          Any Week hekko
         </div>
       </div>
     </div>
